@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+# Sam Moser
 
-### More Information
+I am a mechanical engineering student at Missouri University of Science and Technology, and will be graduating with my bachelor's in the spring of 2016. I have extensive knowledge in automotive repair, especially in the mechanical systems of a vehicle. I consider my hands on experience to be my main asset as a mechanical engineer. This is because I have personal experience with the various failure modes in the transportation industry (automotive and recreational) to apply to future engineering projects.
 
-A place to include any other types of information that you'd like to include about yourself. 
+#### Education
 
-### Contact me
+## Missouri S&T
 
-[email@domain.com](mailto:email@domain.com)
+Bachelor of Science (BS), Mechanical Engineering (expected 2016)
